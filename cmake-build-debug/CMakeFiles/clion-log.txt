@@ -1,0 +1,11 @@
+/home/igor/CLion-2018.1.5/clion-2018.1.5/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/igor/CLionProjects/Chip8Emulator
+-- Boost version: 1.65.1
+-- Found the following Boost libraries:
+--   thread
+--   chrono
+--   system
+--   date_time
+--   atomic
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/igor/CLionProjects/Chip8Emulator/cmake-build-debug
